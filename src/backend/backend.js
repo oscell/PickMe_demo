@@ -1,6 +1,5 @@
 const express = require('express');
 
-
 const algoliasearch = require('algoliasearch');
 const app = express();
 const cors = require('cors');
