@@ -13,12 +13,12 @@ npm install
 
 ## Usage
 
-### Start Backend
+1. Terminal 1: Start Backend
 ```bash
 npm run server
 ```
 
-### Start React App
+2. Terminal 2: Start React App
 ```bash
 npm start
 ```
