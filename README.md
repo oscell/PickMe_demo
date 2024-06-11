@@ -1,7 +1,5 @@
 ## PickMe_demo
 
-## UI
-![](https://imgur.com/wA5Iflk)
 
 ## Setup
 ```bash
